@@ -1,2 +1,2 @@
-# Armaan9058.githhub.io
+# Armaan9058.github.io
 This is my first github website 
